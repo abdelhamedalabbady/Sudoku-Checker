@@ -176,8 +176,6 @@ void fnSetSolution(_Bool bStatus)
 		printf("Bad");
 	else // how that possible :D but let's print some useful text instead of just stuck there
 		printf("Undefined");
-	printf(" solution\n\n\n");
-	printf("Made by: Abdelhamed Al-Abbady\nID: 11\n");
 	getchar(); // to prevent fast exit and user can't see the result
 	//exit we don't need the program be continued
 	exit(bStatus);
