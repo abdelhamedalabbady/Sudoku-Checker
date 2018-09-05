@@ -1,7 +1,7 @@
 #include <stdio.h> // for common functions , printf,  fopen...
 #include <stdlib.h> // for using of exit function
 
-// change guide mdode make it 0 to disable guide mode
+// change guide mode make it 0 to disable guide mode
 #define GUIDE 1
 // some constants for solution result
 #define BAD 0
